@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I'm testing stuff on my profile.. it will look bad right now
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **JaegerNolte/JaegerNolte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
